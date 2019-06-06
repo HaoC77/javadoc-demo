@@ -1,0 +1,9 @@
+com.charliai.activities
+com.charliai.activities.api
+com.charliai.activities.handlers.conference
+com.charliai.activities.handlers.expenses
+com.charliai.activities.handlers.scheduler
+com.charliai.activities.handlers.search
+com.charliai.activities.handlers.travel
+com.charliai.activities.handlers.web
+com.charliai.activities.register
